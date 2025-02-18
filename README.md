@@ -1,6 +1,6 @@
 ## Hi there :sunglasses:
 
-Eu sou Felipe Oliveira, atuo na area de programação especializada em Front-End, atualmente estou aprendendo e praticando projetos em:
+Eu sou Felipe Oliveira, Sou desenvolvedor Front- End apaixonado por criar sites e paginas intuitivas e atraente para os usuários, Sempre em busca de novos desafios e oportunidades para aprender, atualmente estou aprendendo e praticando projetos em:
 <br>
 <br>
 -  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
